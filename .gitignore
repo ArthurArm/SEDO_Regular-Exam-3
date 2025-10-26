@@ -1,0 +1,97 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+.envrc
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependencies
+node_modules/
+bower_components/
+vendor/
+venv/
+env/
+ENV/
+.venv
+
+# Build Outputs
+dist/
+build/
+out/
+target/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Cache and Temp Files
+.cache/
+.temp/
+.tmp/
+*.tmp
+.sass-cache/
+.parcel-cache/
+
+# Package Manager Files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+Pipfile.lock
+
+# Compiled Files
+*.class
+*.pyc
+*.pyo
+__pycache__/
+*.o
+*.a
+
+# Database Files
+*.sqlite
+*.sqlite3
+*.db
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Test Coverage
+coverage/
+.nyc_output/
+*.lcov
+.coverage
+htmlcov/
+
+# Miscellaneous
+.git/
+*.orig
